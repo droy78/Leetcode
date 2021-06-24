@@ -5,4 +5,5 @@ Solutions to common Leetcode problems
 **35. Search Insert Position**</br>
 **278. First Bad Version**</br>
 **74. Search a 2D Matrix**<br/>
-**374. Guess Number Higher or Lower**
+**374. Guess Number Higher or Lower**<br/>
+**41. First Missing Positive**
