@@ -8,4 +8,5 @@ Solutions to common Leetcode problems
 **374. Guess Number Higher or Lower**<br/>
 **41. First Missing Positive**<br/>
 **287. Find the Duplicate Number**<br/>
-**645. Set Mismatch**
+**645. Set Mismatch**<br/>
+**442. Find All Duplicates in an Array**
