@@ -9,4 +9,5 @@ Solutions to common Leetcode problems
 **41. First Missing Positive**<br/>
 **287. Find the Duplicate Number**<br/>
 **645. Set Mismatch**<br/>
-**442. Find All Duplicates in an Array**
+**442. Find All Duplicates in an Array**<br/>
+**70. Climbing Stairs**
