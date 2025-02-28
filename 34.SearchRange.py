@@ -9,7 +9,7 @@ class Solution(object):
         start = 0
         end = len(nums) - 1
 
-        # Find the first (leftmost) position of the target
+        # Find the first (leftmost) position of the target.
         while start <= end:
             mid = start + (end - start) / 2
             if nums[mid] < target:
